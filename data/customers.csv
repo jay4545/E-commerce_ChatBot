@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,joined_date,loyalty_tier
+1001,Maria,Garcia,maria.garcia@email.com,555-123-4567,123 Maple Street,Portland,OR,97201,2022-01-15,Gold
+1002,James,Williams,james.w@email.com,555-234-5678,456 Oak Avenue,Seattle,WA,98101,2022-03-22,Silver
+1003,John,Smith,john.smith@email.com,555-345-6789,789 Pine Road,San Francisco,CA,94107,2022-02-10,Bronze
+1004,Emily,Johnson,emily.j@email.com,555-456-7890,321 Cedar Lane,Los Angeles,CA,90001,2022-04-05,Gold
+1005,Robert,Brown,robert.b@email.com,555-567-8901,654 Birch Drive,Chicago,IL,60601,2022-01-30,Silver
+1006,Sarah,Davis,sarah.davis@email.com,555-678-9012,987 Walnut Street,New York,NY,10001,2022-03-15,Bronze
+1007,Michael,Miller,michael.m@email.com,555-789-0123,741 Cherry Avenue,Boston,MA,02108,2022-05-20,Silver
+1008,Jennifer,Wilson,jennifer.w@email.com,555-890-1234,852 Spruce Court,Miami,FL,33101,2022-02-25,Gold
+1009,David,Moore,david.moore@email.com,555-901-2345,963 Elm Boulevard,Denver,CO,80201,2022-04-18,Bronze
+1010,Lisa,Taylor,lisa.t@email.com,555-012-3456,159 Aspen Way,Austin,TX,73301,2022-06-07,Silver
+1011,Thomas,Anderson,thomas.a@email.com,555-123-9876,357 Redwood Place,Phoenix,AZ,85001,2022-01-05,Gold
+1012,Jessica,Thomas,jessica.t@email.com,555-234-8765,246 Magnolia Path,Philadelphia,PA,19101,2022-07-12,Bronze
+1013,Daniel,Jackson,daniel.j@email.com,555-345-7654,975 Cypress Street,Atlanta,GA,30301,2022-02-18,Silver
+1014,Amanda,White,amanda.w@email.com,555-456-6543,864 Willow Lane,Detroit,MI,48201,2022-05-01,Gold
+1015,Christopher,Harris,chris.h@email.com,555-567-5432,753 Oak Street,San Diego,CA,92101,2022-03-29,Bronze
+1016,Melissa,Martin,melissa.m@email.com,555-678-4321,642 Maple Court,Minneapolis,MN,55401,2022-08-14,Silver
+1017,Matthew,Thompson,matt.t@email.com,555-789-3210,531 Pine Circle,Dallas,TX,75201,2022-01-22,Gold
+1018,Ashley,Garcia,ashley.g@email.com,555-890-2109,420 Cedar Road,Houston,TX,77001,2022-06-30,Bronze
+1019,Joshua,Martinez,joshua.m@email.com,555-901-1098,319 Birch Avenue,Las Vegas,NV,89101,2022-04-11,Silver
+1020,Elizabeth,Robinson,elizabeth.r@email.com,555-012-0987,208 Walnut Drive,Portland,ME,04101,2022-09-05,Gold
+1021,Andrew,Clark,andrew.c@email.com,555-109-8765,197 Cherry Court,Sacramento,CA,94203,2022-03-08,Bronze
+1022,Stephanie,Rodriguez,stephanie.r@email.com,555-218-7654,286 Spruce Lane,Salt Lake City,UT,84101,2022-07-25,Silver
+1023,Kevin,Lewis,kevin.l@email.com,555-327-6543,375 Elm Path,Nashville,TN,37201,2022-02-03,Gold
+1024,Nicole,Lee,nicole.l@email.com,555-436-5432,464 Aspen Place,Indianapolis,IN,46201,2022-05-17,Bronze
+1025,Brian,Walker,brian.w@email.com,555-545-4321,553 Redwood Boulevard,Columbus,OH,43201,2022-04-29,Silver
+1026,Megan,Hall,megan.h@email.com,555-654-3210,642 Magnolia Street,Charlotte,NC,28201,2022-10-10,Gold
+1027,Timothy,Allen,timothy.a@email.com,555-763-2109,731 Cypress Drive,Kansas City,MO,64101,2022-01-12,Bronze
+1028,Lauren,Young,lauren.y@email.com,555-872-1098,820 Willow Road,Omaha,NE,68101,2022-08-03,Silver
+1029,Justin,Hernandez,justin.h@email.com,555-981-0987,919 Oak Place,Albuquerque,NM,87101,2022-03-01,Gold
+1030,Samantha,King,samantha.k@email.com,555-098-9876,101 Maple Lane,Cleveland,OH,44101,2022-06-19,Bronze
+1031,Benjamin,Wright,benjamin.w@email.com,555-109-8767,202 Pine Court,Baltimore,MD,21201,2022-11-08,Silver
+1032,Rebecca,Lopez,rebecca.l@email.com,555-218-7658,303 Cedar Circle,Pittsburgh,PA,15201,2022-02-27,Gold
+1033,Brandon,Hill,brandon.h@email.com,555-327-6549,404 Birch Street,Louisville,KY,40201,2022-07-31,Bronze
+1034,Katherine,Scott,katherine.s@email.com,555-436-5430,505 Walnut Avenue,Oklahoma City,OK,73101,2022-05-14,Silver
+1035,Gregory,Green,gregory.g@email.com,555-545-4321,606 Cherry Road,Memphis,TN,38101,2022-03-18,Gold
+1036,Alexandra,Adams,alexandra.a@email.com,555-654-3212,707 Spruce Drive,Honolulu,HI,96801,2022-09-26,Bronze
+1037,Ryan,Baker,ryan.b@email.com,555-763-2103,808 Elm Court,Milwaukee,WI,53201,2022-04-23,Silver
+1038,Amber,Gonzalez,amber.g@email.com,555-872-1094,909 Aspen Lane,Anchorage,AK,99501,2022-01-07,Gold
+1039,Steven,Nelson,steven.n@email.com,555-981-0985,111 Redwood Place,Tucson,AZ,85701,2022-08-22,Bronze
+1040,Brittany,Carter,brittany.c@email.com,555-098-9876,222 Magnolia Boulevard,Raleigh,NC,27601,2022-04-06,Silver
+1041,Jonathan,Mitchell,jonathan.m@email.com,555-109-8767,333 Cypress Path,Richmond,VA,23219,2022-12-01,Gold
+1042,Sara,Perez,sara.p@email.com,555-218-7658,444 Willow Street,Boise,ID,83701,2022-03-13,Bronze
+1043,Charles,Roberts,charles.r@email.com,555-327-6549,555 Oak Drive,Providence,RI,02901,2022-10-20,Silver
+1044,Melissa,Turner,melissa.t@email.com,555-436-5430,666 Maple Road,Fargo,ND,58101,2022-05-27,Gold
+1045,Eric,Phillips,eric.p@email.com,555-545-4321,777 Pine Lane,Des Moines,IA,50301,2022-07-09,Bronze
+1046,Christina,Campbell,christina.c@email.com,555-654-3212,888 Cedar Court,Manchester,NH,03101,2022-02-15,Silver
+1047,Patrick,Parker,patrick.p@email.com,555-763-2103,999 Birch Circle,Birmingham,AL,35201,2022-06-28,Gold
+1048,Rachel,Evans,rachel.e@email.com,555-872-1094,121 Walnut Place,Charleston,SC,29401,2022-09-18,Bronze
+1049,Stephen,Edwards,stephen.e@email.com,555-981-0985,232 Cherry Avenue,Jackson,MS,39201,2022-11-30,Silver
+1050,Laura,Collins,laura.c@email.com,555-098-9876,343 Spruce Boulevard,Burlington,VT,05401,2022-05-03,Gold

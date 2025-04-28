@@ -1,0 +1,51 @@
+product_id,name,category,price,description,stock_quantity,rating,return_policy
+P001,Wireless Noise-Cancelling Headphones,Electronics,89.99,"Premium wireless headphones with active noise cancellation, 30-hour battery life, and comfortable over-ear design.",45,4.7,30-day return
+P002,Fitness Smartwatch,Electronics,59.99,"Water-resistant fitness tracker with heart rate monitor, sleep tracking, and 7-day battery life.",38,4.5,30-day return
+P003,Portable Bluetooth Speaker,Electronics,19.99,"Compact portable speaker with 10-hour battery life, waterproof design, and rich sound quality.",62,4.3,30-day return
+P004,Ultra HD Smart TV (55-inch),Electronics,499.99,"4K UHD display with smart streaming capabilities, voice control, and slim design.",15,4.8,14-day return
+P005,Professional Chef Knife Set,Kitchen,129.99,"Set of 5 high-carbon stainless steel knives with ergonomic handles and storage block.",28,4.6,30-day return
+P006,Organic Cotton Bedsheet Set,Home,49.99,"Queen-size 400 thread count organic cotton sheets with fitted sheet, flat sheet, and 2 pillowcases.",33,4.4,60-day return
+P007,Stainless Steel Water Bottle,Outdoors,24.99,"Double-walled insulated bottle keeping drinks cold for 24 hours or hot for 12 hours.",71,4.5,30-day return
+P008,Yoga Mat (6mm thick),Fitness,29.99,"Non-slip, eco-friendly yoga mat with alignment lines and carrying strap.",47,4.2,30-day return
+P009,Ceramic Plant Pot Set,Garden,34.99,"Set of 3 decorative ceramic pots in varied sizes with drainage holes and saucers.",25,4.0,14-day return
+P010,Wireless Charging Pad,Electronics,22.99,"Fast-charging wireless pad compatible with all Qi-enabled devices, LED indicator, and non-slip surface.",52,4.3,30-day return
+P011,Leather Wallet,Accessories,39.99,"Genuine leather wallet, RFID blocking technology, with multiple card slots and bill compartment.",40,4.5,30-day return
+P012,Stainless Steel Cookware Set,Kitchen,149.99,"10-piece non-stick cookware set with tempered glass lids and stay-cool handles.",18,4.7,30-day return
+P013,Adjustable Dumbbell Set,Fitness,179.99,"Weight-adjustable dumbbell pair (5-52.5 lbs each) with storage tray.",12,4.8,14-day return
+P014,Smart Door Lock,Home Security,159.99,"Keyless entry with fingerprint, code, and app control, compatible with smart home systems.",22,4.6,30-day return
+P015,Organic Bamboo Cutting Board,Kitchen,32.99,"Large sustainable bamboo cutting board with juice groove and handles.",36,4.4,30-day return
+P016,Scented Soy Candle Set,Home,27.99,"Set of 3 hand-poured soy candles with essential oils in reusable glass jars.",44,4.2,14-day return
+P017,Wireless Earbuds,Electronics,69.99,"True wireless earbuds with noise isolation, touch controls, and 20-hour total battery life.",31,4.5,30-day return
+P018,Gel Memory Foam Pillow,Bedding,54.99,"Cooling gel memory foam pillow with removable, washable cover.",29,4.3,60-day return
+P019,Smart Robot Vacuum Cleaner,Appliances,249.99,"Wi-Fi connected robot vacuum with mapping technology, app control, and self-emptying bin.",14,4.6,30-day return
+P020,Stainless Steel French Press,Kitchen,34.99,"Double-walled insulated French press coffee maker (34 oz) with filter system.",38,4.4,30-day return
+P021,Ergonomic Office Chair,Furniture,159.99,"Adjustable height and tilt office chair with lumbar support and breathable mesh back.",17,4.5,30-day return
+P022,Sunrise Alarm Clock,Electronics,44.99,"Wake-up light with sunrise simulation, nature sounds, and FM radio.",26,4.2,30-day return
+P023,Organic Wool Throw Blanket,Home,64.99,"100% organic wool throw blanket (50x60 inches) with decorative tassels.",31,4.3,30-day return
+P024,Bluetooth BBQ Thermometer,Kitchen,49.99,"Wireless meat thermometer with smartphone app and temperature alerts.",24,4.1,14-day return
+P025,Compact Air Purifier,Appliances,89.99,"HEPA filter air purifier for rooms up to 300 sq. ft. with air quality indicator.",19,4.5,30-day return
+P026,Hyaluronic Acid Serum,Beauty,29.99,"Hydrating facial serum with hyaluronic acid, vitamin C, and anti-aging properties.",42,4.7,30-day return
+P027,Digital Kitchen Scale,Kitchen,19.99,"Precise digital scale with tare function, multiple unit options, and LCD display.",35,4.3,30-day return
+P028,Recycled Plastic Outdoor Rug,Outdoors,39.99,"Weather-resistant rug (5x7 ft) made from recycled plastic bottles.",28,4.0,14-day return
+P029,Smart Light Bulb Set,Smart Home,49.99,"Set of 4 color-changing smart bulbs with app and voice control compatibility.",33,4.4,30-day return
+P030,Portable Power Bank,Electronics,39.99,"20000mAh fast-charging power bank with dual USB ports and LED display.",46,4.6,30-day return
+P031,Ceramic Nonstick Frying Pan Set,Kitchen,54.99,"Set of 8-inch and 10-inch ceramic-coated nonstick frying pans.",27,4.2,30-day return
+P032,Bamboo Bathroom Organizer,Home,32.99,"Expandable bamboo organizer for bathroom countertop with multiple compartments.",32,4.1,30-day return
+P033,Resistance Bands Set,Fitness,24.99,"Set of 5 exercise bands with different resistance levels, handles, and carrying case.",53,4.3,30-day return
+P034,Massage Gun,Health,129.99,"Percussion massage device with 6 interchangeable heads and 5 speed settings.",21,4.7,30-day return
+P035,Sourdough Bread Making Kit,Food,44.99,"Complete kit with jar, starter, tools, and recipe book for homemade sourdough.",29,4.2,14-day return
+P036,Compact Espresso Machine,Kitchen,129.99,"15-bar pressure espresso maker with milk frother and cup warming plate.",18,4.5,30-day return
+P037,Outdoor Motion Sensor Light,Home Security,34.99,"Solar-powered LED security light with motion detection and 3 adjustable modes.",37,4.2,30-day return
+P038,Laptop Backpack,Accessories,59.99,"Water-resistant backpack with padded laptop compartment, USB charging port, and anti-theft pocket.",41,4.6,30-day return
+P039,Electric Toothbrush,Health,79.99,"Sonic toothbrush with 5 cleaning modes, pressure sensor, and 2-week battery life.",32,4.7,30-day return
+P040,Reusable Food Storage Bags,Kitchen,19.99,"Set of 8 silicone food storage bags in various sizes, leakproof and freezer-safe.",48,4.3,30-day return
+P041,Wireless Gaming Mouse,Electronics,49.99,"Ergonomic gaming mouse with 6 programmable buttons and adjustable DPI settings.",26,4.5,30-day return
+P042,Portable Hammock,Outdoors,44.99,"Lightweight parachute nylon hammock with tree straps and carrying pouch.",34,4.4,30-day return
+P043,Rattan Plant Stand Set,Home,39.99,"Set of 2 rattan plant stands in different heights with sturdy iron frames.",23,4.1,14-day return
+P044,Cast Iron Dutch Oven,Kitchen,69.99,"Pre-seasoned 6-quart enameled cast iron Dutch oven with lid.",19,4.8,30-day return
+P045,Silk Pillowcase,Bedding,29.99,"100% mulberry silk pillowcase with hidden zipper closure, standard size.",37,4.6,60-day return
+P046,Adjustable Laptop Stand,Office,29.99,"Height-adjustable aluminum laptop stand with cooling ventilation.",45,4.3,30-day return
+P047,Herb Garden Starter Kit,Garden,24.99,"Indoor herb growing kit with 5 different herbs, pots, soil, and labels.",31,4.2,14-day return
+P048,Compact Blender,Kitchen,39.99,"Personal blender with 16 oz travel cup, BPA-free material, and pulse function.",28,4.4,30-day return
+P049,Wireless Keyboard and Mouse Combo,Electronics,49.99,"Slim wireless keyboard and mouse set with long battery life and ergonomic design.",33,4.3,30-day return
+P050,Insulated Lunch Bag,Accessories,19.99,"Leakproof insulated lunch bag with adjustable shoulder strap and multiple pockets.",52,4.1,30-day return
