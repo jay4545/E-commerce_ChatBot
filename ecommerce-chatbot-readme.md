@@ -49,7 +49,7 @@ The chatbot is built with:
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/ecommerce-chatbot.git
+   git clone https://github.com/jay4545/E-commerce_ChatBot.git
    cd ecommerce-chatbot
    ```
 
@@ -70,7 +70,7 @@ The chatbot is built with:
 
 5. **Run the chatbot**
    ```
-   python main.py  # Create this file to instantiate and run the EcommerceChatbot class
+   Bot_Dashboard.py  # Create this file to instantiate and run the EcommerceChatbot class
    ```
 
 ## 💬 Usage Examples
@@ -128,13 +128,11 @@ The system includes robust error handling for:
 - Integrate with payment processing systems
 - Add multi-language support
 
-## 📄 License
 
-[MIT License](LICENSE)
 
 ## 👥 Contributors
 
-- Your Name - Initial work
+- Jayanth Kumar M - Initial work
 
 ---
 
